@@ -15,7 +15,7 @@ nav{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: crimson;
+    background-color: red;
 }
 nav div h1{
     color: #FFF;
